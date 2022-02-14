@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
 title: Lecture Notes
+type: CourseSection
 uid: 49e64858-2af7-b4c8-55e7-4278ef551112
 ---
 
@@ -54,7 +57,7 @@ Scene perception and the PPA ([PDF - 1.6 MB]({{< baseurl >}}/resources/lec4_scen
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 5
 {{< tdclose >}}
 {{< tdopen >}}

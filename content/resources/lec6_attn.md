@@ -5,7 +5,12 @@ description: Lecture presentation on visual attention, limited capacity and sele
   neural responses.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/9-71-functional-mri-of-high-level-vision-fall-2007/9cb46fdeb928ff3bc7bbfe44bd45608c_lec6_attn.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: Visual Attention
+type: OCWFile
 uid: 9cb46fde-b928-ff3b-c7bb-fe44bd45608c
 ---
