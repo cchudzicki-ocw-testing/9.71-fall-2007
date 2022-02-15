@@ -11,6 +11,5 @@ parent_type: CourseSection
 resourcetype: Document
 title: Differential Activation by Convex and Concave Stimuli in Human Parahippocampal
   Cortex and Lateral Occipital Cortex
-type: OCWFile
 uid: 907618c4-96ac-1e0f-cd59-8a42e9fd16c6
 ---

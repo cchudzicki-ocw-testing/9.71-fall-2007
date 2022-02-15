@@ -10,6 +10,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: Term Paper Options
-type: OCWFile
 uid: 49bcf965-7c6e-1ef6-b2ea-a6320928d3a4
 ---

@@ -11,6 +11,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: Visual Attention
-type: OCWFile
 uid: 9cb46fde-b928-ff3b-c7bb-fe44bd45608c
 ---

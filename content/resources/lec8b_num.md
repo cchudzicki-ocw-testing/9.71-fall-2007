@@ -10,6 +10,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 'Number: A Candidate "Special" Domain of Cognition'
-type: OCWFile
 uid: aa92f493-5274-fdef-95cf-86232d387f99
 ---

@@ -10,6 +10,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: Spatial Patterns of fMRI Response
-type: OCWFile
 uid: b0b63960-04e3-e8e3-63dd-d6695360660d
 ---

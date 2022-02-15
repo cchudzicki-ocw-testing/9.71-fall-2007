@@ -10,6 +10,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: Neural Correlates of Scene Perception
-type: OCWFile
 uid: 8c84326e-5582-2740-37da-bb541f18653f
 ---

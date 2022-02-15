@@ -10,6 +10,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: Final Projects
-type: OCWFile
 uid: 90f34906-f26f-fb40-27d1-84f0901aef22
 ---

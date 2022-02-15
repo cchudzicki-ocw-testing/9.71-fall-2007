@@ -10,6 +10,5 @@ parent_type: CourseSection
 resourcetype: Document
 title: "The Neural basis of Perceptual Awareness or Perceptual Representation vs.\
   \ Perceptual Awareness: What\u2019s the Difference?"
-type: OCWFile
 uid: 8cff1bfa-5154-a98d-f747-ae9bb22f2440
 ---

@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: How To Give a Paper Presentation
-type: OCWFile
 uid: 64ee4ab5-1307-fed3-e595-219cd9dab48c
 ---

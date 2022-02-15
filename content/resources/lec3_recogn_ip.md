@@ -11,6 +11,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: The Problem of Object Recognition and The Lateral Occipital Complex (LOC)
-type: OCWFile
 uid: 7b4f608c-82a5-bef9-b02a-77ae69f7a8d6
 ---
