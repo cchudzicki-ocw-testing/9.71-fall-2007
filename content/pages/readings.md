@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides links to online references, a list of useful reading
+  resources, and the schedule of readings by lecture session.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection

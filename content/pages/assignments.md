@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides information on the course assignments. Includes
+  instructions for the paper presentation, paper critique, term paper, final project,
+  and examples of student work.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
