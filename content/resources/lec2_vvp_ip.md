@@ -6,6 +6,7 @@ file: /courses/9-71-functional-mri-of-high-level-vision-fall-2007/06b4c65fd7f29c
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
